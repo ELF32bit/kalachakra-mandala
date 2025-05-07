@@ -1,0 +1,15 @@
+newmtl BLACK
+map_Kd textures/BLACK.png
+
+newmtl RED
+map_Kd textures/RED.png
+
+newmtl WHITE
+map_Kd textures/WHITE.png
+
+newmtl YELLOW
+map_Kd textures/YELLOW.png
+
+newmtl __TB_empty
+map_Kd textures/__TB_empty.png
+
